@@ -1,0 +1,15 @@
+*.swp
+*.swo
+*.orig
+*.rej
+*~
+.#*
+*.pyc
+*.pyo
+*.egg-info
+/build/
+/dist/
+push
+/log/
+/tmp/
+config/supervisord.conf.template
